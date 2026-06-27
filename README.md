@@ -1,4 +1,4 @@
-# Multi-Camera 3D Speaker Tracking & Localization System
+# Stereo-Camera 3D Speaker Tracking & Localization System
 
 An advanced computer vision and spatial computing application designed for real-time 3D head pose estimation, orientation tracking, and spatial localization of multiple speakers in an indoor environment using dual-stereo camera setups. 
 
