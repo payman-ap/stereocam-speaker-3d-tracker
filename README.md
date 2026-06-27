@@ -106,7 +106,12 @@ The tracking accuracy of this application was evaluated alongside a reference gr
 
 
 
+---
 
+## 📅 Project History & Timeline
+* **Initial Release:** February 2023
+* **Context:** Developed as a core image processing component for a real-time closed-room environment tracking pipeline.
+* **Current Status:** This repository contains the finalized production code, scrubbed and structured for public distribution or portfolio display.
 
 
 
