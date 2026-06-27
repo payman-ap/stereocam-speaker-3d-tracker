@@ -1,24 +1,12 @@
 ReadMe about the Datasets
 #########################
 
-We recorded 4 scenarios in the Optitrack chamber: 
 
-Sc1: 
-    - Head Orientation from close and then from far
-    - The order of actions is: pitch, roll, yaw
-
-Sc2: 
-    - Side to Side
-    - Start from Middle of main camera, then go to the right, and then left
-
-Sc3:
-    - Close and Far
-    - Stay in middle of camera, step back and then step forward towards camera
 
 Sc4: 
     - Free talking scenario, freely moving 
 
-The data is named accordingly. There are 4 datasets per scenario, as we have a data from Optitrack and our system per speaker.
+The data is named accordingly. There are 4 datasets per scenario, as we have a data from Tracker device and our system per speaker.
 
 The raw data is given as well.
 
